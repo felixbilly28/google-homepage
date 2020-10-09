@@ -1,0 +1,118 @@
+body{
+	background-color: #f7f7f7;
+}
+.top{
+text-align: right;
+white-space: nowrap;
+font-family: arial,sans-serif;
+display: inline-block;
+line-height: 24px;
+outline: none;
+vertical-align: middle;
+color: rgba(0,0,0,0.87);
+text-decoration: none;
+position: relative;
+left: 80%;
+margin-top: 15px;
+}
+.conn{
+font: 13px/27px Roboto,RobotoDraft,Arial,sans-serif;
+white-space: nowrap;
+display: inline-block;
+outline: none;
+font-family: Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+font-weight: 500;
+font-size: 14px;
+letter-spacing: .25px;
+line-height: 16px;
+margin-right: 8px;
+min-width: 96px;
+padding: 9px 23px;
+text-align: center;
+vertical-align: middle;
+border-radius: 4px;
+box-sizing: border-box;
+background: #1a73e8;
+border: 1px solid transparent;
+margin-left: 8px;
+text-decoration: none;
+color: #fff;
+cursor: pointer;
+}
+.top a{
+	text-decoration: none;
+	margin-right: 10px;
+
+}
+.google{
+	width: 300px;
+	height: auto;
+	position: relative;
+	top: 100px;	
+}
+.search{
+	position: relative;
+	top: 80px;
+	left: 400px;
+	width: 500px;
+	height: 35px;
+	border-radius: 15px;
+}
+.lin{
+	width: 50px;
+	height: 20px;
+}
+.link{
+	position: relative;
+	top: 150px;
+	padding: 10px;
+}
+.nd{
+	position: relative;
+	left: 180px;
+	top: 152px;
+}
+.st{
+	position: relative;
+	left: -70px;
+}
+.doodle{
+	position: relative;
+	left: 500px;
+	top: -45px;
+}
+#dispo{
+	position: relative;
+	top: 150px;
+	display: inline-block;
+	line-height: 28px;
+}
+#dispo a{
+	text-decoration: none;
+}
+.ayiti{
+font-family: arial,sans-serif;
+line-height: 40px;
+font-size: 14px;
+color: rgba(0,0,0,.54);
+padding-left: 27px;
+margin-left: 30px;
+text-align: left;
+position: relative;
+top: 250px;
+}
+.ccp{
+	position: relative;
+	left: 450px;
+
+}
+.ccp a{
+	text-decoration: none;
+	margin-right: 10px;
+	color: #5f6368;
+}
+.peac a{
+	text-decoration: none;
+	margin-right: 10px;
+	color: #5f6368;
+}
